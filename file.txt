@@ -1,6 +1,0 @@
-This is first line
-second line
-test line 20-Jan-23
-Hello
-line 1 in master : 26Jan23
-line 1 : 26Jan23
